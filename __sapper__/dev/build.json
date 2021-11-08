@@ -1,0 +1,20 @@
+{
+  "bundler": "webpack",
+  "shimport": null,
+  "assets": {
+    "about": "1e839d0b726bb3d63fd8/about.about.js",
+    "auth_signup": "1e839d0b726bb3d63fd8/auth_signup.auth_signup.js",
+    "index": "1e839d0b726bb3d63fd8/index.index.js",
+    "main": "1e839d0b726bb3d63fd8/main.js",
+    "notes_all": "1e839d0b726bb3d63fd8/notes_all.notes_all.js",
+    "notes_new": "1e839d0b726bb3d63fd8/notes_new.notes_new.js",
+    "topics_$id": "1e839d0b726bb3d63fd8/topics_$id.topics_$id.js",
+    "topics_$id$93_notes_$91slug": "1e839d0b726bb3d63fd8/topics_$id$93_notes_$91slug.topics_$id$93_notes_$91slug.js",
+    "topics_new": "1e839d0b726bb3d63fd8/topics_new.topics_new.js",
+    "vendors~notes_all~notes_new~topics_$id~topics_$id$93_notes_$91slug~topics_new": "1e839d0b726bb3d63fd8/vendors~notes_all~notes_new~topics_$id~topics_$id$93_notes_$91slug~topics_new.vendors~notes_all~notes_new~topics_$id~topics_$id$93_notes_$91slug~topics_new.js",
+    "vendors~notes_new~topics_new": "1e839d0b726bb3d63fd8/vendors~notes_new~topics_new.vendors~notes_new~topics_new.js"
+  },
+  "css": {
+    "main": null
+  }
+}

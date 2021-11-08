@@ -1,6 +1,6 @@
 {
-  "name": "biz",
-  "description": "Learning HTML,CSS,JS ,JS Framworks,and more ",
+  "name": "school-notes",
+  "description": "TODO",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
@@ -10,16 +10,15 @@
   },
   "dependencies": {
     "compression": "^1.7.1",
-    "firebase": "^9.0.1",
+    "firebase": "^9.2.0",
     "polka": "next",
-    "sirv": "^1.0.0"
+    "sirv": "^1.0.0",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "file-loader": "^6.0.0",
-    "prettier": "^2.4.1",
-    "prettier-plugin-svelte": "^2.4.0",
     "sapper": "^0.28.0",
-    "svelte": "^3.42.5",
+    "svelte": "^3.17.3",
     "svelte-loader": "^3.0.0",
     "webpack": "^4.46.0",
     "webpack-modules": "^1.0.0"
